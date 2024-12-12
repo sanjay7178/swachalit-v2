@@ -336,7 +336,8 @@ GEM
       railties (>= 4.2.0)
       thor (>= 0.14, < 2.0)
     json (2.9.0)
-    just-datetime-picker (0.0.2)
+    just-datetime-picker (0.0.7)
+      activeadmin (>= 0.4.4)
       formtastic (>= 2.0.0)
     jwt (2.9.3)
       base64
